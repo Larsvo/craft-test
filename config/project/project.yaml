@@ -1,0 +1,17 @@
+dateModified: 1615825459
+email:
+  fromEmail: larsvo@gmail.com
+  fromName: testcraft
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: testcraft
+  schemaVersion: 3.6.6
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
